@@ -1,2 +1,3 @@
-# sweater
-Spring Boot learning
+# sweater - something like twitter
+
+Spring Boot
